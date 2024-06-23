@@ -4,7 +4,6 @@ with open("README.md", "r") as fh:
 
 requirements = [
     "opentele==1.15.1",
-    "tgcrypto==1.2.3",
     "telethon",
     "pyrogram",
     "stream-sqlite==0.0.38",
